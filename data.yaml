@@ -1,0 +1,14 @@
+path: /Users/ravindujayakodi/Documents/Object-Detection-Modal/ObstacleDetectionModal/data
+train: train/images
+val: valid/images
+
+
+names:
+  0: Elephant
+  1: Cow
+  2: Dog
+  3: Person
+  4: Bufflow
+  5: Accident
+  6: Cat
+  7: Pothole
